@@ -1,10 +1,4 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: romulo
-  Date: 4/18/19
-  Time: 4:10 PM
-  To change this template use File | Settings | File Templates.
---%>
+
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
          pageEncoding="ISO-8859-1"%>
 <%@ taglib prefix="ct" uri="http://java.sun.com/jsp/jstl/test"%>
